@@ -1,0 +1,513 @@
+Mon Sep 15 13:43:02 2025
+ - Command: who are you
+Mon Sep 15 13:43:35 2025
+ - Command: play music
+Mon Sep 15 13:44:24 2025
+ - Command: open youtube
+Mon Sep 15 13:48:12 2025
+ - Command: calculate 2+5
+Mon Sep 15 13:48:20 2025
+ - Command: play music
+Mon Sep 15 13:49:03 2025
+ - Command: weather
+2025-09-15 14:43:36,309 - Could not import comtypes.gen, trying to create it.
+2025-09-15 14:43:36,311 - Created comtypes.gen directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 14:43:36,311 - Writing __init__.py file: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen\__init__.py'
+2025-09-15 14:43:36,311 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 14:43:36,341 - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-09-15 14:43:36,346 - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-09-15 14:43:36,418 - # Generating comtypes.gen.SpeechLib
+2025-09-15 14:43:36,418 - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-09-15 14:43:36,418 - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-09-15 14:43:36,438 - # Generating comtypes.gen.stdole
+2025-09-15 14:43:45,476 - hello
+2025-09-15 14:43:57,435 - who are you
+2025-09-15 14:44:17,778 - play music
+2025-09-15 14:44:27,734 - open youtube
+2025-09-15 14:45:26,264 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 14:45:26,265 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 14:45:42,534 - thank you
+2025-09-15 14:48:55,010 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 14:48:55,010 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 14:49:15,520 - hello
+2025-09-15 14:49:24,263 - open youtube
+2025-09-15 14:51:08,782 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 14:51:08,782 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 14:51:45,550 - DHOKHA
+2025-09-15 14:54:28,432 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 14:54:28,433 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 14:54:49,501 - hi
+2025-09-15 14:54:57,310 - hello
+2025-09-15 14:55:05,963 - open facebook
+2025-09-15 14:55:21,448 - open radiao
+2025-09-15 14:55:27,953 - joke
+2025-09-15 14:55:41,051 - who made you
+2025-09-15 14:57:53,010 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 14:57:53,011 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 14:58:36,964 - play music
+2025-09-15 15:01:16,685 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 15:01:16,687 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 15:01:16,696 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 15:01:16,697 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 15:01:53,933 - hello
+2025-09-15 15:02:10,684 - play music
+2025-09-15 15:02:22,477 - weather
+2025-09-15 15:05:48,464 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 15:05:48,465 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 15:05:48,465 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 15:07:01,317 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 15:07:01,319 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 15:07:17,342 - hi
+2025-09-15 15:07:22,735 - fine
+2025-09-15 15:08:50,173 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-15 15:08:50,174 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-15 15:09:01,718 - hi
+2025-09-15 15:09:10,139 - open facebook
+2025-09-15 15:09:35,254 - hello
+2025-09-15 15:09:46,412 - play music
+2025-09-16 11:43:52,373 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 11:43:52,373 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 11:44:23,059 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 11:44:23,059 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 11:44:29,748 - hello
+2025-09-16 11:44:38,330 - open youtube
+2025-09-16 11:45:29,156 - activate missile
+2025-09-16 11:45:49,226 - calculate 7+56
+2025-09-16 12:09:36,186 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:09:36,186 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:09:43,146 - hello
+2025-09-16 12:09:55,250 - who are u
+2025-09-16 12:10:05,571 - who are You
+2025-09-16 12:10:24,310 - can you play the music
+2025-09-16 12:10:34,531 - play the music
+2025-09-16 12:19:18,708 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:19:18,709 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:19:28,364 - guess what
+2025-09-16 12:19:38,507 - who are you
+2025-09-16 12:20:15,239 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:20:15,239 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:20:15,499 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:20:15,500 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:20:27,092 - hi
+2025-09-16 12:20:34,540 - whats up
+2025-09-16 12:20:49,036 - what can you do for me
+2025-09-16 12:24:24,695 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:24:24,696 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:24:24,872 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:24:24,873 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:24:39,249 - great
+2025-09-16 12:24:58,027 - what can you do for me
+2025-09-16 12:25:29,152 - are you farheen ara
+2025-09-16 12:25:42,672 - weather
+2025-09-16 12:25:48,711 - chittagong
+2025-09-16 12:26:02,270 - bangladesh 
+2025-09-16 12:32:53,235 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:32:53,237 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:33:07,424 - fine
+2025-09-16 12:33:12,175 - like
+2025-09-16 12:33:21,895 - yes continue
+2025-09-16 12:33:41,234 - hello
+2025-09-16 12:33:48,951 - play music
+2025-09-16 12:34:09,795 - open YouTube
+2025-09-16 12:42:05,685 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:42:05,686 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:42:05,686 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:42:29,085 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:42:29,086 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:42:29,168 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:42:29,168 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:42:43,392 - hello
+2025-09-16 12:42:57,578 - good music
+2025-09-16 12:43:09,104 - dhokha
+2025-09-16 12:43:25,801 - what can you do for me
+2025-09-16 12:46:30,699 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:46:30,699 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:46:38,283 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:46:38,283 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:48:33,287 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:48:33,289 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:48:42,335 - open YouTube
+2025-09-16 12:52:29,927 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:52:29,927 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:52:42,475 - open YouTube
+2025-09-16 12:53:07,595 - open Google
+2025-09-16 12:55:12,771 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 12:55:12,771 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 12:55:23,112 - open YouTube
+2025-09-16 12:55:37,697 - open Google
+2025-09-16 12:55:53,901 - search car
+2025-09-16 12:56:10,049 - search car on google
+2025-09-16 12:56:26,482 - hellow
+2025-09-16 12:56:34,479 - open radio
+2025-09-16 12:56:59,672 - can you search for me
+2025-09-16 12:57:00,850 - can you search for me
+2025-09-16 12:57:09,836 - hello
+2025-09-16 12:57:22,464 - no it's fine
+2025-09-16 12:57:34,807 - can you do something for me
+2025-09-16 12:57:47,019 - who are you
+2025-09-16 12:58:01,323 - who made you
+2025-09-16 13:01:06,055 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:01:06,056 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:01:17,282 - open Gmail
+2025-09-16 13:01:27,892 - open Facebook
+2025-09-16 13:03:18,841 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:03:18,842 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:03:30,086 - open Gmail
+2025-09-16 13:05:28,819 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:05:28,819 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:05:45,176 - open screen
+2025-09-16 13:05:56,514 - open screen recording
+2025-09-16 13:10:17,859 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:10:17,860 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:10:30,528 - open Quran Tilawat
+2025-09-16 13:10:52,934 - Puran Tila
+2025-09-16 13:11:00,416 - Quran Tilawat
+2025-09-16 13:11:45,493 - open Quran
+2025-09-16 13:14:01,378 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:14:01,378 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:14:12,914 - Twitter
+2025-09-16 13:15:01,527 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:15:01,527 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:15:01,957 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:15:01,957 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:15:17,166 - open YouTube
+2025-09-16 13:15:32,876 - open YouTube
+2025-09-16 13:15:47,769 - open Facebook
+2025-09-16 13:15:59,228 - open TW
+2025-09-16 13:16:07,266 - tutor
+2025-09-16 13:16:20,129 - open twitter
+2025-09-16 13:17:24,299 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:17:24,300 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:17:24,300 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:17:36,465 - open twitter
+2025-09-16 13:17:47,259 - open quran
+2025-09-16 13:19:50,321 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-16 13:19:50,321 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-16 13:20:00,629 - open twitter
+2025-09-17 11:29:56,374 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:29:56,375 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:30:39,088 - hello
+2025-09-17 11:30:47,013 - open YouTube
+2025-09-17 11:31:08,837 - hello
+2025-09-17 11:31:09,151 - hello
+2025-09-17 11:31:25,468 - who made you
+2025-09-17 11:39:48,125 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:39:48,125 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:40:04,506 - open VLC
+2025-09-17 11:40:35,647 - open Chrome
+2025-09-17 11:41:01,143 - play music
+2025-09-17 11:41:15,154 - hi
+2025-09-17 11:41:28,199 - what can you do for me
+2025-09-17 11:41:28,656 - 1
+2025-09-17 11:41:35,973 - what
+2025-09-17 11:41:58,995 - tell me a joke
+2025-09-17 11:42:03,471 - joke
+2025-09-17 11:42:20,099 - make me laugh
+2025-09-17 11:42:31,125 - hi 
+2025-09-17 11:48:47,886 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:48:47,887 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:48:48,203 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:48:48,204 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:54:11,507 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:54:11,508 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:54:11,631 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:54:11,632 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:54:29,038 - call
+2025-09-17 11:55:19,170 - call WhatsApp
+2025-09-17 11:56:25,123 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:56:25,123 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:56:25,202 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:56:25,202 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:58:52,613 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:58:52,614 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 11:58:52,718 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 11:58:52,718 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:07:12,842 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:07:12,844 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:07:12,948 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:07:12,948 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:10:00,903 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:10:00,904 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:10:01,003 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:10:01,004 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:13:38,373 - open WhatsApp
+2025-09-17 12:14:28,277 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:14:28,277 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:15:56,833 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:15:56,834 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:18:52,140 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:18:52,140 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:20:16,221 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:20:16,221 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:22:54,848 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:22:54,848 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:24:53,694 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:24:53,701 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:27:53,542 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:27:53,543 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:31:58,709 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:31:58,709 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:34:23,072 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:34:23,074 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:52:10,062 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:52:10,063 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 12:54:58,723 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 12:54:58,724 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:00:52,205 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:00:52,206 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:02:13,670 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:02:13,671 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:03:10,132 - turn off webcam
+2025-09-17 13:06:57,372 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:06:57,372 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:07:33,075 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:07:33,075 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:08:02,543 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:08:02,544 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:08:02,659 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:08:02,659 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:08:11,849 - 
+2025-09-17 13:08:35,209 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:08:35,209 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:08:35,270 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:08:35,270 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:10:56,121 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:10:56,121 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:10:56,186 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:10:56,186 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:11:39,799 - play music
+2025-09-17 13:11:41,643 - play music
+2025-09-17 13:14:24,308 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:14:24,309 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:14:40,349 - open YouTube
+2025-09-17 13:19:02,407 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:19:02,408 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:19:43,286 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:19:43,286 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:20:08,208 - open YouTube
+2025-09-17 13:20:57,949 - 
+2025-09-17 13:27:32,920 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:27:32,922 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:28:01,387 - Background music turned off
+2025-09-17 13:29:56,999 - hello
+2025-09-17 13:30:04,097 - hi
+2025-09-17 13:31:00,745 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:31:00,745 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:31:21,221 - hi
+2025-09-17 13:36:37,133 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:36:37,134 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:39:52,083 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:39:52,084 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:40:45,836 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:40:45,836 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:44:10,521 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:44:10,521 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:47:41,365 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:47:41,366 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:47:53,137 - hello
+2025-09-17 13:48:04,076 - why is you laye
+2025-09-17 13:48:11,617 - talk to me
+2025-09-17 13:48:28,272 - hi
+2025-09-17 13:53:14,710 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:53:14,711 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:57:34,237 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:57:34,237 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:57:51,378 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 13:57:51,378 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 13:58:06,078 - 
+2025-09-17 14:01:51,627 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:01:51,627 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:01:51,627 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:01:51,627 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:03:41,279 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:03:41,279 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:03:47,441 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:03:47,442 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:05:51,589 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:05:51,589 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:08:27,774 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:08:27,775 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:08:38,200 - hello
+2025-09-17 14:08:42,031 - fine
+2025-09-17 14:08:51,223 - what can you do for me
+2025-09-17 14:09:02,802 - hello
+2025-09-17 14:09:31,082 - play music
+2025-09-17 14:22:42,393 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:22:42,394 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:23:38,464 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:23:38,464 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:26:04,116 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:26:04,117 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 14:41:56,157 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 14:41:56,159 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 18:56:51,608 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 18:56:51,631 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 18:57:14,628 - hello
+2025-09-17 18:57:35,297 - open YouTube
+2025-09-17 18:57:52,483 - open radio
+2025-09-17 18:58:33,188 - goodbye
+2025-09-17 19:04:37,478 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 19:04:37,478 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 19:04:37,479 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 19:04:37,479 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 19:05:04,268 - hi
+2025-09-17 19:05:13,603 - what are you
+2025-09-17 19:05:22,812 - okl tell me jokle
+2025-09-17 19:05:30,997 - jokle
+2025-09-17 19:05:45,429 - joke
+2025-09-17 19:05:54,181 - what
+2025-09-17 19:06:08,717 - open youtube
+2025-09-17 19:06:24,085 - open twitter
+2025-09-17 19:09:57,591 - goodbye
+2025-09-17 19:18:56,289 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 19:18:56,290 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-17 19:19:22,102 - hi
+2025-09-17 19:19:27,508 - whats app
+2025-09-17 19:19:42,102 - tell me joke
+2025-09-17 19:19:59,630 - sorry
+2025-09-17 19:21:48,774 - how are you
+2025-09-17 19:22:30,879 - tell me a joke
+2025-09-17 19:22:52,424 - Tell me a joke
+2025-09-17 19:23:05,075 - Assistant tells a joke
+2025-09-17 19:23:16,034 - haha you are funny
+2025-09-17 19:23:24,544 - time
+2025-09-17 19:23:54,310 - add task
+2025-09-17 19:24:21,661 - add task remind me of party tommrow morning
+2025-09-17 19:25:21,880 - add_task(20:23:24, i love you)
+2025-09-17 19:26:00,560 - add task 14:30 Take medicine
+
+2025-09-17 19:27:39,792 - who are
+2025-09-17 19:27:49,312 - who are
+2025-09-17 19:29:19,426 - goodbye
+2025-09-20 11:14:58,248 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-20 11:14:58,249 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-20 11:15:30,191 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-20 11:15:30,191 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-20 11:16:04,497 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-20 11:16:04,498 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-20 11:16:47,626 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-20 11:16:47,626 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-09-20 11:22:21,092 - open YouTube
+2025-09-20 11:23:29,942 - open Twitter
+2025-09-20 11:23:47,672 - hi
+2025-09-20 11:23:57,509 - open YouTube
+2025-09-20 11:24:10,737 - open Facebook
+2025-09-20 11:24:37,815 - play music
+2025-09-20 11:24:54,115 - open Safari
+2025-09-20 11:24:59,597 - Google Chrome
+2025-09-20 11:25:05,474 - open Chrome
+2025-09-20 11:25:12,982 - 
+2025-09-20 11:25:51,953 - bye
+2025-10-16 23:35:14,682 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-16 23:35:14,686 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-16 23:35:39,631 - open Facebook
+2025-10-16 23:36:03,535 - open YouTube
+2025-10-16 23:37:03,331 - music
+2025-10-16 23:37:13,001 - play music
+2025-10-16 23:37:31,591 - hi
+2025-10-16 23:37:50,423 - open PornHub video
+2025-10-20 12:58:41,110 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-20 12:58:41,111 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-20 12:59:02,728 - hi
+2025-10-20 12:59:49,017 - tell me a joke
+2025-10-20 13:00:06,581 - open YouTube
+2025-10-20 13:00:46,004 - open Facebook
+2025-10-20 13:04:36,282 - open facebook
+2025-10-20 13:05:08,919 - play music
+2025-10-20 13:06:54,087 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-20 13:06:54,087 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-20 13:07:11,012 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-20 13:07:11,013 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-21 09:08:10,609 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-21 09:08:10,610 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-21 09:09:28,130 - exit
+2025-10-22 11:59:36,258 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 11:59:36,258 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 11:59:51,158 - hello
+2025-10-22 11:59:58,575 - open youtube
+2025-10-22 12:00:11,316 - how are you
+2025-10-22 12:00:24,921 - can you do me favour
+2025-10-22 12:00:38,738 - what is your name
+2025-10-22 12:00:50,760 - ok keep farheen
+2025-10-22 12:01:08,724 - calculate 4 +3
+2025-10-22 12:01:19,036 - calculate 23*34
+2025-10-22 12:01:23,470 - ok great
+2025-10-22 12:01:30,483 - open facebook
+2025-10-22 12:01:43,098 - open zoom
+2025-10-22 12:01:59,776 - open twitter
+2025-10-22 12:02:14,528 - play music
+2025-10-22 12:02:24,604 - hi
+2025-10-22 12:02:38,654 - shutdown after 2 minutes
+2025-10-22 12:03:04,745 - shutdown 12 minutes
+2025-10-22 12:03:39,063 - can you tell me ajoke
+2025-10-22 12:03:43,510 - joke
+2025-10-22 12:03:58,775 - my name ?
+2025-10-22 12:04:10,007 - ok what is the time
+2025-10-22 12:04:33,479 - remind me of tennis 
+2025-10-22 12:04:41,080 - can you set reminder
+2025-10-22 12:04:53,720 - what did i said just now
+2025-10-22 12:05:01,527 - open chrome
+2025-10-22 12:05:50,680 - command
+2025-10-22 12:09:38,259 - shutdown 1
+2025-10-22 12:12:48,716 - teach_joke("Why did the computer sneeze? Because it had a virus!")
+
+2025-10-22 12:15:17,444 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 12:15:17,445 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 12:15:36,510 - exit
+2025-10-22 12:22:24,169 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 12:22:24,170 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 12:22:31,721 - add task 14:30 Attend online class
+
+2025-10-22 16:26:08,489 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:26:08,490 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:26:35,451 - open Notepad
+2025-10-22 16:26:49,235 - open YouTube
+2025-10-22 16:27:32,855 - zoom
+2025-10-22 16:27:41,973 - open zoom
+2025-10-22 16:27:54,873 - a timer for
+2025-10-22 16:28:05,217 - set a timer
+2025-10-22 16:29:38,366 - hi
+2025-10-22 16:34:32,997 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:34:32,998 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:34:51,586 - hello tell me a joke
+2025-10-22 16:35:03,654 - tell me a joke
+2025-10-22 16:35:24,630 - exit
+2025-10-22 16:35:40,142 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:35:40,142 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:35:55,237 - name of seven days
+2025-10-22 16:36:32,279 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:36:32,279 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:36:51,557 - search
+2025-10-22 16:37:17,668 - Google
+2025-10-22 16:37:23,719 - Google
+2025-10-22 16:37:30,981 - Google
+2025-10-22 16:38:54,623 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:38:54,623 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:39:11,716 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:39:11,717 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:39:25,463 - open chat GPT
+2025-10-22 16:39:42,565 - chat PPT
+2025-10-22 16:39:52,418 - chat
+2025-10-22 16:40:14,945 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:40:14,945 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:40:32,642 - chat GPT
+2025-10-22 16:40:41,547 - chat GPT
+2025-10-22 16:40:50,000 - open chat gpt
+2025-10-22 16:42:17,469 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:42:17,470 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:42:56,619 - pin code western
+2025-10-22 16:43:03,359 - hi
+2025-10-22 16:44:48,958 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-22 16:44:48,959 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-10-22 16:45:21,058 - hi
+2025-10-22 16:45:55,969 - fine
+2025-10-22 16:46:27,737 - date
+2025-10-22 16:48:17,973 - open YouTube
+2025-10-22 16:48:43,657 - open Chrome
+2026-03-04 14:30:59,426 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-04 14:30:59,427 - Using writeable comtypes cache directory: 'C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2026-03-04 14:30:59,698 - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2026-03-04 14:30:59,707 - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-03-04 14:30:59,977 - # Generating comtypes.gen.SpeechLib
+2026-03-04 14:31:16,193 - hi
+2026-03-04 14:31:21,383 - whats app

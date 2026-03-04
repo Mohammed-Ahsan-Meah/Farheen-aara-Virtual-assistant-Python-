@@ -1,0 +1,22 @@
+{
+    "name": null,
+    "mood": null,
+    "last_command": "whats app",
+    "favorite_songs": [
+        "C:\\Users\\HP\\Desktop\\test\\VirtualAssistant\\VirtualAssistant\\media\\music.mp3"
+    ],
+    "favorite_websites": [
+        "youtube",
+        "google",
+        "radio",
+        "facebook",
+        "gmail",
+        "screen recording",
+        "twitter",
+        "quran",
+        "whatsapp",
+        "chat gpt"
+    ],
+    "jokes": [],
+    "tasks": []
+}
